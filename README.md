@@ -1,0 +1,2 @@
+# Databases-Management-Systems
+One form through which a user may manipulate data in 2 tables being in 1 to many relationship.The  following operations are available:Display all parent records,Selecting a parent record, it must display its child records,Selecting a child record, it must allow to remove or update the data of the child,Selecting a parent record, it must allow to add a new child record.
